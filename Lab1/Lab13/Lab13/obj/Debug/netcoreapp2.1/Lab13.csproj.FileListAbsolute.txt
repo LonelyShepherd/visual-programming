@@ -1,0 +1,10 @@
+X:\Семестар VI\Визуелно Програмирање\Прва лабораториска вежба\Lab13\Lab13\bin\Debug\netcoreapp2.1\Lab13.deps.json
+X:\Семестар VI\Визуелно Програмирање\Прва лабораториска вежба\Lab13\Lab13\bin\Debug\netcoreapp2.1\Lab13.runtimeconfig.json
+X:\Семестар VI\Визуелно Програмирање\Прва лабораториска вежба\Lab13\Lab13\bin\Debug\netcoreapp2.1\Lab13.runtimeconfig.dev.json
+X:\Семестар VI\Визуелно Програмирање\Прва лабораториска вежба\Lab13\Lab13\bin\Debug\netcoreapp2.1\Lab13.dll
+X:\Семестар VI\Визуелно Програмирање\Прва лабораториска вежба\Lab13\Lab13\bin\Debug\netcoreapp2.1\Lab13.pdb
+X:\Семестар VI\Визуелно Програмирање\Прва лабораториска вежба\Lab13\Lab13\obj\Debug\netcoreapp2.1\Lab13.csproj.CoreCompileInputs.cache
+X:\Семестар VI\Визуелно Програмирање\Прва лабораториска вежба\Lab13\Lab13\obj\Debug\netcoreapp2.1\Lab13.AssemblyInfoInputs.cache
+X:\Семестар VI\Визуелно Програмирање\Прва лабораториска вежба\Lab13\Lab13\obj\Debug\netcoreapp2.1\Lab13.AssemblyInfo.cs
+X:\Семестар VI\Визуелно Програмирање\Прва лабораториска вежба\Lab13\Lab13\obj\Debug\netcoreapp2.1\Lab13.dll
+X:\Семестар VI\Визуелно Програмирање\Прва лабораториска вежба\Lab13\Lab13\obj\Debug\netcoreapp2.1\Lab13.pdb
